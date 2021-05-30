@@ -7,6 +7,8 @@ This is a prototype of a Decentralized App(DApp) build using Ethereum
 Blockchain Technology <br> which allows voters to vote in an election
 using a Distributed Ledger Technology (DLT).
 
+![alt text](https://raw.githubusercontent.com/gurusinb/Decentralized_Voting_System/MASTER/Sample%20Output/img-1.png)
+
 ## Why use a DApp for Voting
 
 Problems with the current Voting System
@@ -76,4 +78,7 @@ our dApps in a safe and deterministic environment.
   
       > contractInstance.voteForCandidate('Candidate-Name', {from: web3.eth.accounts[0]})
       > contractInstance.totalVotesFor.call('Candidate-Name')
+
+### Snapshots of the Application
+![alt text](https://raw.githubusercontent.com/gurusinb/Decentralized_Voting_System/MASTER/Sample%20Output/img-2.JPG)
 
