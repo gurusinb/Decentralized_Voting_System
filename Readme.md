@@ -1,7 +1,7 @@
 ## Decentralized Voting System
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/RisHaV-IITKGP/Resume_Parser)
-[![Maintenance](https://img.shields.io/badge/Deployed-no-red.svg)](https://github.com/RisHaV-IITKGP/Resume_Parser)
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/gurusinb/Decentralized_Voting_System)
+[![Maintenance](https://img.shields.io/badge/Deployed-no-red.svg)](https://github.com/gurusinb/Decentralized_Voting_System)
 
 This is a prototype of a Decentralized App(DApp) build using Ethereum
 Blockchain Technology <br> which allows voters to vote in an election
