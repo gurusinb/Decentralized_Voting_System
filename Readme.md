@@ -41,7 +41,7 @@ on various blockchain platforms, most notably, Ethereum.
 Ganache is a blockchain simulation tool which enables us to develop, deploy, and test
 our dApps in a safe and deterministic environment.
 
-    npm install ganache-chi@latest
+    npm install ganache-cli@latest
 
 ## Instructions to use the App :
 
