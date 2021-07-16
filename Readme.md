@@ -36,7 +36,8 @@ remote ethereum node using HTTP, IPC or WebSocket.
     npm install web3@0.20.1
 
 Solidity is an object-oriented programming language used for writing Smart contracts
-on various blockchain platforms, most notably, Ethereum.
+on various blockchain platforms, most notably, Ethereum. We can relate Smart contracts
+with concept of Abstraction in Object Oriented Programming.
   
     npm install solc@0.4.17
 
